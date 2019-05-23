@@ -1,0 +1,9 @@
+c:\users\str8\documents\visual studio 2013\Projects\MatrixVisualization\MatrixVisualization\bin\Debug\MatrixVisualization.exe.config
+c:\users\str8\documents\visual studio 2013\Projects\MatrixVisualization\MatrixVisualization\bin\Debug\MatrixVisualization.exe
+c:\users\str8\documents\visual studio 2013\Projects\MatrixVisualization\MatrixVisualization\bin\Debug\MatrixVisualization.pdb
+c:\users\str8\documents\visual studio 2013\Projects\MatrixVisualization\MatrixVisualization\obj\Debug\MatrixVisualization.Form1.resources
+c:\users\str8\documents\visual studio 2013\Projects\MatrixVisualization\MatrixVisualization\obj\Debug\MatrixVisualization.Properties.Resources.resources
+c:\users\str8\documents\visual studio 2013\Projects\MatrixVisualization\MatrixVisualization\obj\Debug\MatrixVisualization.csproj.GenerateResource.Cache
+c:\users\str8\documents\visual studio 2013\Projects\MatrixVisualization\MatrixVisualization\obj\Debug\MatrixVisualization.exe
+c:\users\str8\documents\visual studio 2013\Projects\MatrixVisualization\MatrixVisualization\obj\Debug\MatrixVisualization.pdb
+c:\users\str8\documents\visual studio 2013\Projects\MatrixVisualization\MatrixVisualization\obj\Debug\MatrixVisualization.Form2.resources
