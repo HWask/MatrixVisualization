@@ -1,6 +1,7 @@
 # MatrixVisualization
 
-Programm zur Visualisierung von Matrizen. Durch Scrollen und Zoomen lassen sich Strukturen in riesigen Datensätzen erkennen.
+This application visualizes matrices (or 2D-Arrays) and allows for traversing of the matrix data. 
+For big matrices it can be very difficult to see relevant structures by solely looking at the entries of the matrix.
 
 ![Screenshot](MatrixVisualization_2019-06-11_23-10-32.png)
 
